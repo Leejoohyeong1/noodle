@@ -1,0 +1,27 @@
+{
+  "name": "noodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leejoohyeong1/noodle.git"
+  },
+  "keywords": [
+    "noodle"
+  ],
+  "author": "Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leejoohyeong1/noodle/issues"
+  },
+  "homepage": "https://github.com/Leejoohyeong1/noodle#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
